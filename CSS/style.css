@@ -1,3 +1,8 @@
 :root{
     font-family: 'Roboto', sans-serif;
 }
+footer li{
+            position: relative;
+            list-style-type: none;
+            float: right;
+}
