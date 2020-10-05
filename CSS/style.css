@@ -1,8 +1,11 @@
-:root{
-    font-family: 'Roboto', sans-serif;
+:root {
+  font-family: "Roboto", sans-serif;
 }
-footer li{
-            position: relative;
-            list-style-type: none;
-            float: right;
+footer li {
+  position: relative;
+  list-style-type: none;
+  float: right;
+}
+.centrado {
+  justify-content: center;
 }
