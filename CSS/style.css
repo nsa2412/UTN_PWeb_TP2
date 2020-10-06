@@ -6,3 +6,7 @@ footer li {
   list-style-type: none;
   float: right;
 }
+
+.container{
+  padding: 5px;
+}
