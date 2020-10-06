@@ -10,3 +10,7 @@ footer li {
 .container{
   padding: 5px;
 }
+
+.texto{
+  white-space: nowrap;
+}
